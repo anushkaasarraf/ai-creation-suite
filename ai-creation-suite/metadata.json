@@ -1,0 +1,5 @@
+{
+  "name": "AI Creation Suite",
+  "description": "A web application that uses the Gemini API to power a suite of creative and professional tools. Generate images from text, chart a personalized career roadmap, or write a captivating story with AI.",
+  "requestFramePermissions": []
+}
