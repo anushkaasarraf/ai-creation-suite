@@ -1,4 +1,4 @@
-# ai-creation-suite
+# AI Creation Suite
 This AI-powered content creation suite is built with React and Gemini API that generates high-quality text outputs for various use cases like blogs, social media, and creative writing.
 
 
@@ -15,25 +15,29 @@ This AI-powered content creation suite is built with React and Gemini API that g
 
 ## Installation & Setup
 
-1. Clone the repo:
-   
-   git clone https://github.com/anushkaasarraf/ai-creation-suite.git
+### Prerequisites
+- Node.js installed
+- GEMINI API Key
 
-3. Install dependencies:
+### 1. Clone the repo:
    
-   cd ai-creation-suite 
-   
-   npm install
+         git clone https://github.com/anushkaasarraf/ai-creation-suite.git
 
-5. Add your API key:
+### 2. Install dependencies:
+   
+         cd ai-creation-suite 
+   
+         npm install
+
+### 3. Add your API key:
    
    Create a .env file and add:
 
          VITE_GEMINI_API_KEY=your_key_here
 
-7. Run the project:
+### 4. Run the project:
    
-   npm run dev
+         npm run dev
 
 ## Security Note
 
@@ -50,3 +54,9 @@ For production, move API calls to a backend server to protect your API key.
 ## Contribution
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+##  License
+
+This project is licensed under the MIT License.
+
+
